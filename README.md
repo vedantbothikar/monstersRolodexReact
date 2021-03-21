@@ -4,7 +4,7 @@
 This project shows profiles of different monsters along with some basic information like their name and email address. 
 One additional functionality included is that user can search a monster by their name.
 
-## Vision of the project:
+## Vision of the project :
 This project is a part of a React Course where I learned concepts like components, state, props, etc. by creating this project. 
 This project helped me understand how to decide on components, how components can be reused and many more basic concepts of React.
 <br/>
