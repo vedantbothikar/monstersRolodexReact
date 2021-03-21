@@ -1,4 +1,4 @@
-<h1 align="center">Monsters Rolodex React</h1>
+<h1 align="center">Monsters Rolodex</h1>
 
 ## Description :
 This project shows profiles of different monsters along with some basic information like their name and email address. 
@@ -17,3 +17,16 @@ React, Saas
 ## What stage is this project at? :
 Status - Completed <br/>
 You can suggest any changes by contacting me at vbothikar2001@gmail.com 
+<br/>
+You can view this project at https://bit.ly/3lA32KC
+
+<br/>
+<hr>
+You can clone this repository and get started.
+After cloning install all the dependencies and then run "npm start"
+
+This runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+
+The page will reload if you make edits.\
+You will also see any lint errors in the console.
