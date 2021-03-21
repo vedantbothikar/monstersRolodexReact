@@ -20,7 +20,7 @@ You can suggest any changes by contacting me at vbothikar2001@gmail.com
 <br/>
 You can view this project at https://bit.ly/3lA32KC
 
-<br/>
+
 <hr>
 You can clone this repository and get started.
 After cloning install all the dependencies and then run "npm start"
