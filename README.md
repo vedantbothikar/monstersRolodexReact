@@ -9,7 +9,7 @@ This project is a part of a React Course where I learned concepts like component
 This project helped me understand how to decide on components, how components can be reused and many more basic concepts of React.
 <br/>
 <br/>
-<a href="https://ibb.co/r4N30y1"><img src="https://i.ibb.co/f4L9F0P/React-App-Google-Chrome-21-03-2021-13-23-04.png" alt="React-App-Google-Chrome-21-03-2021-13-23-04" border="0"></a>
+<a href="https://ibb.co/r4N30y1"><img src="https://i.ibb.co/Tmd12hF/React-App-Google-Chrome-21-03-2021-13-23-04.png" alt="React-App-Google-Chrome-21-03-2021-13-23-04" border="0"></a>
 
 ## Tech Stack :
 React, Saas
